@@ -12,7 +12,7 @@ namespace PatternAppState
             salario.AplicaAliquota();
             salario.AplicaAliquota();
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
